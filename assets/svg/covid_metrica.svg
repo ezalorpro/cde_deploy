@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="193.73001mm"
+   height="24.437946mm"
+   viewBox="0 0 193.73001 24.437946"
+   version="1.1"
+   id="svg6880">
+  <defs
+     id="defs6874">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath498">
+      <path
+         d="M 0,3984.844 H 8727.2 V 0 H 0 Z"
+         id="path496" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata6877">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-29.385231,-126.28303)">
+    <text
+       transform="matrix(0.35277777,0,0,0.35277777,155.81809,143.42526)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8487px;font-family:Helvetica;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;white-space:pre;inline-size:194.098;fill:#ffdd15;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text490"
+       xml:space="preserve"><tspan
+         x="0"
+         y="18.446213"><tspan> Diciembre 2020</tspan></tspan></text>
+    <g
+       id="g492"
+       transform="matrix(0.35277777,0,0,-0.35277777,-226.69046,1105.6773)">
+      <g
+         id="g494"
+         clip-path="url(#clipPath498)">
+        <g
+           id="g500"
+           transform="translate(771.9431,2760.675)">
+          <path
+             d="M 0,0 H 414.792"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path502" />
+        </g>
+        <g
+           id="g504"
+           transform="translate(867.1636,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path506" />
+        </g>
+        <g
+           id="g508"
+           transform="translate(947.1475,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path510" />
+        </g>
+        <g
+           id="g512"
+           transform="translate(1027.1313,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path514" />
+        </g>
+        <g
+           id="g516"
+           transform="translate(1107.1152,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path518" />
+        </g>
+        <g
+           id="g520"
+           transform="translate(772.2751,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path522" />
+        </g>
+        <g
+           id="g524"
+           transform="translate(1186.5767,2776.2358)">
+          <path
+             d="M 0,0 V -33.015"
+             style="fill:none;stroke:#ffffff;stroke-width:1.287;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path526" />
+        </g>
+      </g>
+    </g>
+    <text
+       transform="matrix(0.35277777,0,0,0.35277777,29.385231,142.74113)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.8487px;font-family:Helvetica;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;white-space:pre;inline-size:194.098;fill:#ffdd15;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text490-3"
+       xml:space="preserve"><tspan
+         x="0"
+         y="18.446213"><tspan> Julio 2020</tspan></tspan></text>
+  </g>
+</svg>
