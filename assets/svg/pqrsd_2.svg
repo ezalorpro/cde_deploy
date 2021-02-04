@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="191.20561mm"
+   height="93.045944mm"
+   viewBox="0 0 191.20561 93.045944"
+   version="1.1"
+   id="svg430">
+  <defs
+     id="defs424">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122">
+      <path
+         d="m 1192.959,2161.146 c -59.624,0 -107.959,-48.335 -107.959,-107.959 v 0 -31.081 c 0,-59.625 48.335,-107.96 107.959,-107.96 v 0 h 319.082 c 59.624,0 107.959,48.335 107.959,107.96 v 0 31.081 c 0,59.624 -48.335,107.959 -107.959,107.959 v 0 z"
+         id="path120" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(188.73611,0,0,188.73611,-74.99045,80.271918)"
+       spreadMethod="pad"
+       id="linearGradient132">
+      <stop
+         style="stop-opacity:1;stop-color:#13579c"
+         offset="0"
+         id="stop128" />
+      <stop
+         style="stop-opacity:1;stop-color:#3ea9d5"
+         offset="1"
+         id="stop130" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata427">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-11.591074,-39.903106)">
+    <g
+       id="g507"
+       transform="translate(89.05102,9.1090093)">
+      <path
+         d="m -36.904914,36.703933 c -21.034022,0 -38.085536,17.051514 -38.085536,38.085536 v 0 10.964686 c 0,21.034375 17.051514,38.085885 38.085536,38.085885 v 0 H 75.660122 c 21.034022,0 38.085538,-17.05151 38.085538,-38.085885 v 0 -10.964686 c 0,-21.034022 -17.051516,-38.085536 -38.085538,-38.085536 v 0 z"
+         style="fill:url(#linearGradient132);stroke:none;stroke-width:0.352778"
+         id="path134" />
+      <path
+         d="m -47.385994,46.629938 v 17.6149 c 0,0.936272 -0.758825,1.69545 -1.695097,1.69545 h -3.969456 V 55.313563 c 0,-3.813528 -3.091744,-6.904919 -6.905272,-6.904919 -3.813527,0 -6.905272,3.091391 -6.905272,6.904919 v 10.626725 h -3.969102 c -0.936273,0 -1.69545,-0.759178 -1.69545,-1.69545 v -17.6149 h -4.934303 l 17.50448,-15.835841 5.747103,5.199591 v -1.87078 h 5.334 v 6.696427 l 6.422672,5.810603 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="path158" />
+      <text
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="text240"
+         x="-34.802383"
+         y="80.86969"><tspan
+           x="-34.802383 -28.166634 -22.12355 -19.604717 -17.085884 -11.624887 -9.1060495 -6.0051355 0.037947789 6.0810308 8.5998602 14.642951 20.103951 22.622787 28.083771 34.126862 40.169945 45.630951 51.674026 54.192856 57.293777 62.754791 65.273605 71.316696 76.777695"
+           y="80.86969"
+           id="tspan238"
+           style="stroke-width:0.352777">Solicitud de consulta de</tspan></text>
+      <text
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;white-space:pre;inline-size:80.8371;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="text240-3"
+         x="-33.753819"
+         y="92.706078"
+         transform="translate(18.504172,-0.62537711)"
+         xml:space="preserve"><tspan
+           x="-33.753819"
+           y="92.706078"><tspan
+             style="stroke-width:0.352777">jurisprudencia</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="192.26389mm"
+   height="95.478951mm"
+   viewBox="0 0 192.26389 95.478951"
+   version="1.1"
+   id="svg755">
+  <defs
+     id="defs749">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath82">
+      <path
+         d="m 385.96,1550.146 c -59.625,0 -107.96,-48.335 -107.96,-107.959 v 0 -31.082 c 0,-59.624 48.335,-107.959 107.96,-107.959 v 0 h 319.08 c 59.625,0 107.96,48.335 107.96,107.959 v 0 31.082 c 0,59.624 -48.335,107.959 -107.96,107.959 v 0 z"
+         id="path80" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(188.73611,0,0,188.73611,9.0159851,156.96233)"
+       spreadMethod="pad"
+       id="linearGradient92">
+      <stop
+         style="stop-opacity:1;stop-color:#b9340c"
+         offset="0"
+         id="stop88" />
+      <stop
+         style="stop-opacity:1;stop-color:#f96a2b"
+         offset="1"
+         id="stop90" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata752">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-9.0159851,-105.05151)">
+    <g
+       id="g810">
+      <path
+         d="m 47.101873,113.39435 c -21.034374,0 -38.0858879,17.05151 -38.0858879,38.08554 v 0 10.96503 c 0,21.03403 17.0515139,38.08554 38.0858879,38.08554 v 0 H 159.6662 c 21.03438,0 38.08589,-17.05151 38.08589,-38.08554 v 0 -10.96503 c 0,-21.03403 -17.05151,-38.08554 -38.08589,-38.08554 v 0 z"
+         style="fill:url(#linearGradient92);stroke:none;stroke-width:0.352778"
+         id="path94" />
+      <path
+         d="m 201.27987,105.05151 h -5.35234 v 28.35169 h 5.35234 z m -8.5725,5.37316 h -5.35269 v 22.97818 h 5.35269 z m -8.57214,5.37351 h -5.35235 v 17.60467 h 5.35235 z m -8.5725,5.37351 h -5.3527 v 12.23151 h 5.3527 z m -8.5725,5.37351 h -5.35235 v 6.858 h 5.35235 z m 34.28964,9.61778 h -39.64199 v -1.67252 h 39.64199 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="path160" />
+      <text
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="text266"
+         x="39.488544"
+         y="149.95424"><tspan
+           x="39.488544 46.124294 52.167374 54.686211 57.205044 62.666039 65.184875 68.285789 74.32888 80.371964 82.890793 88.933876 94.394882 96.913712 99.432541 105.47563 108.57654 114.61963 118.31321 127.29846 132.75946 138.22046 140.7393 146.78239 152.82547 155.3443 161.38737 166.84837"
+           y="149.95424"
+           id="tspan262"
+           style="stroke-width:0.352777">Solicitud de información de</tspan><tspan
+           x="40.144711 46.187794 51.648792 55.342373 57.86121 63.904293 69.947372 72.466209 77.927208 81.028122 86.489128 91.950134 94.468964 99.929962 105.97305 112.01612 115.70971 121.17071 123.68954 126.79047 132.25146 141.23671 146.69771 152.15871 154.67755 160.72063 166.18163"
+           y="162.65425"
+           id="tspan264"
+           style="stroke-width:0.352777">periodistas sobre temas de</tspan></text>
+      <text
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352777"
+         id="text270"
+         x="49.299294"
+         y="175.35426"><tspan
+           x="49.299294 52.400208 56.093796 61.554794 67.015793 72.476791 77.93779 83.980873 90.023964 95.484962 101.52805 106.98905 109.50788 114.96887 117.4877 123.53079 128.99179 134.4528 136.97163 143.01471 149.0578 154.5188 157.03763 156.6143 156.19095"
+           y="175.35426"
+           id="tspan268"
+           style="stroke-width:0.352777">trascendencia nacional  </tspan></text>
+    </g>
+  </g>
+</svg>
